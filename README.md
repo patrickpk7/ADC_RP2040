@@ -76,8 +76,8 @@ O código usa **PWM** para controlar o brilho dos LEDs e **I2C** para comunicaç
 
 ---
 
-## 📜 Licença
-Este projeto é de código aberto e pode ser modificado e distribuído livremente.
+##  Link para vídeo demonstração
+ - https://drive.google.com/file/d/1YLnh5G6DiHwIgnFpUP4b9n3npJJZMK-X/view?usp=sharing
 
 ---
 
